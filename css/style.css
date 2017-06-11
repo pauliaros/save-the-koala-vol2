@@ -1,0 +1,278 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+.primer-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 300px;
+	padding-left: 80px;
+	position: center;
+}
+
+.primer-section h1{
+	padding-top: 2em;
+	color:#fff;
+	font-weight: 900;
+	font-size: 30px;
+}
+
+.primer-section p{
+	padding-top: 5px;
+	color:#fff;
+	font-weight: 500;
+	font-size: 15px;
+}
+
+.navbar{
+	background-color: transparent;
+	border:none;
+}
+
+.see-more,
+.read-more
+{
+	background: #41521F;
+	color: #fff;
+	padding: 10px;
+	border-color: #41521F;
+	width: 90px;
+	border-style: none;
+	border-radius: 5px;
+}
+
+li a{
+	color:white !important;
+	text-shadow: 3px 3px 2px #000;
+   color: #666;
+}
+
+
+
+.foundation-information{
+	font-size: 12px;
+	color: grey;
+}
+
+.titulo{
+	font-size:31px;
+	color: #B8B57A;
+	font-weight:bold;
+}
+
+.parrafo{
+	color: grey;
+}
+
+#foundation{
+	margin-top: 30px;
+	margin-bottom: 70px;
+	margin-right: 20px;
+}
+
+.texto-foundation{
+	padding-top: 150px;
+}
+
+.sub{
+	font-size:25px;
+	color: #B8B57A;
+	font-weight:bold;
+}
+
+#help{
+	background-color: #B8B57A;
+	height: 500px;
+
+}
+
+
+img.cosita{
+	margin-top: 110px;
+	border: 10px solid white;
+}
+
+.container-help{
+	margin-top: 150px;
+	margin-left: 150px;
+
+}
+
+.titulo-help{
+	font-size: 12px;
+	color: white;
+	margin-top: 110px;
+
+}
+
+.sub-help{
+	font-size:31px;
+	color:#41521F;
+	font-weight:bold;
+}
+
+.parrafo-help{
+	color:white;
+	margin-bottom:20px;
+}
+
+.cuarto-section{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: center;
+}
+
+.texto-koalas{
+	font-size: 12px;
+	color: white;
+	padding-top: 50px;
+	
+}
+
+.parrafo-koalas{
+	font-size: 30px;
+	color: white;
+	padding-top: 10px;
+
+}
+
+.texto-koalas1{
+	font-size: 12px;
+	color: white;
+	
+}
+
+.titulo-icons{
+	color: #B8B57A;
+	font-size: 30px;
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+
+.icon{
+	font-size: 65px;
+	color: #B8B57A;
+	padding-bottom: 15px;
+
+ 
+}
+
+.row-icon{
+	text-align: center;
+	padding-left: 50px;
+	background: white;
+	height: 300px;
+
+}
+
+.iconpata{
+	font-size: 65px;
+	color: #B8B57A;
+	padding-bottom: 13px;
+}
+
+#donate{
+	background-color: #B8B57A;
+	padding-bottom: 100px;
+
+}
+
+.titulo-donate{
+	color: #41521F;
+	font-size: 30px;
+	padding-top: 70px;
+	padding-bottom: 50px;
+}
+
+hr{
+	width: 250px;
+}
+
+.row-donate{
+	padding-left: 50px;
+	padding-right: 5px;
+
+	
+}
+
+.titulos-donate{
+	font-size: 12px;
+	letter-spacing: 4px;
+}
+
+sup,
+sub{
+	
+	color: white;
+	font-size: 14px;
+}
+
+
+
+.texto-personal,
+.texto-groups,
+.texto-companies{
+	color: white;
+	font-size: 50px;
+}
+
+.button-donate{
+	color: #fff;
+    background-color: #41521F;
+    border-color: #41521F;
+    border-style: none;
+    padding: 10px;
+    border-radius: 5px; 
+
+
+}
+
+footer{
+  background-color: #41521F;
+  color: #fff;
+  
+}
+.container-footer{
+  padding: 90px 90px;
+  
+}
+.title
+{
+  color: #B8B57A;
+  font-weight: 20px;
+}
+
+.email
+{
+  color: #B8B57A;
+}
+
+
+a{
+  list-style: none;
+  text-decoration: none;
+  color: #B8B57A;
+
+}
+
+.links{
+	padding-left: 40px;
+	line-height: 30px;
+}
+.btn-default{
+ 	color: #fff;
+    background-color: #41521F;
+    border-color: #41521F;
+    border-style: none;
+    padding: 10px;
+    border-radius: 5px; 
+ }
